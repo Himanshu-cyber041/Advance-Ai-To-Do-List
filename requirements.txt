@@ -1,0 +1,13 @@
+customtkinter>=5.2.2
+anthropic
+apscheduler
+plyer
+speechrecognition
+pyttsx3
+pyaudio
+pystray
+pillow
+python-dotenv
+comtypes; sys_platform == "win32"
+pywin32; sys_platform == "win32"
+pyinstaller

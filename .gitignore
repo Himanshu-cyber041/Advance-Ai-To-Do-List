@@ -1,0 +1,15 @@
+# secrets + personal data
+.env
+settings.json
+todo.db
+app.log
+# environments / build output
+dotenv/
+venv/
+.venv/
+__pycache__/
+build/
+dist/
+*.spec
+icon.ico
+pyvenv.cfg
